@@ -1,2 +1,5 @@
-# frist-code
+# first-code
 this is my first git
+<br>
+Author SM Raiz Uddin Saaikat
+
